@@ -1,0 +1,18 @@
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
+ */
+package protocoloindividual3.Taller13.Ejercicio3;
+
+/**
+ *
+ * @author juana
+ */
+public abstract class FiguraAbstracta {
+    
+    /*
+    public default void mostrar() {
+        System.out.println("Método predeterminado en una clase abstracta");
+    }
+    */
+}
